@@ -1,0 +1,42 @@
+# Patch/diff artifacts
+*.patch
+*.diff
+*.orig
+*.rej
+interdiff*.txt
+# emacs artifacts
+*~
+\#*\#
+# VI swap file
+*.swp
+# Hidden files
+.DS*
+.project
+# Windows links
+*.lnk
+# Temporary files
+tmp*
+# IDE project directory
+nbproject
+.idea
+# Node.js modules directory
+node_modules
+# Bower components directory
+bower_components
+# Login credentials for grunt
+secret.json
+
+# Logs
+/logs
+
+# Ops
+/ops/backups
+/ops/restore
+/ops/ops.conf
+/ops/ops.host.conf
+/ops/ops.prod.conf
+/ops/cron-daily.sh
+
+# Domains
+/html/bender
+/html/drupal
