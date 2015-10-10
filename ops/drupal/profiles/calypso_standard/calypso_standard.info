@@ -45,6 +45,7 @@ dependencies[] = date
 dependencies[] = elements
 dependencies[] = emaillog
 dependencies[] = entity
+dependencies[] = entity_token
 dependencies[] = entityreference
 dependencies[] = expire
 dependencies[] = fe_block
