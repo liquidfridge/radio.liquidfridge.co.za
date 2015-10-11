@@ -261,6 +261,12 @@ projects[username_enumeration_prevention][patch][2401613] = "https://www.drupal.
 projects[views][type] = "module"
 projects[views][version] = "3.11"
 
+projects[views_php][type] = "module"
+projects[views_php][version] = "2.x"
+projects[views_php][download][type] = "git"
+projects[views_php][download][revision] = "c520371"
+projects[views_php][download][branch] = "7.x-2.x"
+
 projects[wysiwyg_filter][type] = "module"
 projects[wysiwyg_filter][version] = "1.x"
 projects[wysiwyg_filter][download][type] = "git"
